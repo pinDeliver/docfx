@@ -1,3 +1,5 @@
+This Project is Deprecated!
+
 # Generate your documentation with DocFX
 
 [![devstatus](https://docfx.visualstudio.com/docfx/_apis/build/status/docfx-gated-checkin-CI)](https://docfx.visualstudio.com/docfx/_build/latest?definitionId=2)
